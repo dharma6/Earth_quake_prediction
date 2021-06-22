@@ -22,3 +22,5 @@ syntax : python <file-name> <Classifier-name>
 5. Support Vector Regression
 
                  python main.py svm
+
+6. For further information, please refer to the documentation(PDf)
