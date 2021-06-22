@@ -1,5 +1,5 @@
 # Earth_quake_prediction
-Developed a methodology to predict the time left for the quake to occur, when an acoustic signal is passed as input from an artificially created lab environment.
+Developed a methodology to predict the time left for the quake to occur, when an acoustic signal is passed as input from an artificially created lab environment.  
 It has got two version  
 - First version, we predicted using Machine learning Models to satisfy the course Applied Machine learning.
 - Second version, we predicted using Deep learning Models to satisfy the course Deep learning.
