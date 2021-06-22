@@ -23,4 +23,4 @@ syntax : python <file-name> <Classifier-name>
 
                  python main.py svm
 
-6. For further information, please refer to the documentation(PDf)
+6. For further information, please refer to the Project Report(PDf)
